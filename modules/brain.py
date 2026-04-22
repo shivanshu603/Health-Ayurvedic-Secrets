@@ -59,7 +59,7 @@ CONTENT RULES:
 - Add 1 simple usage tip (how to consume)
 
 STYLE:
-- Language: Hinglish (natural spoken Hindi)
+- Language: Hindi (natural spoken Hindi)
 - Start with strong hook (curiosity based)
 - Build fast-paced informative flow
 - End with engaging question or CTA

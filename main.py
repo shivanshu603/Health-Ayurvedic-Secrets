@@ -105,6 +105,16 @@ async def create_one_short(short_number):
 👍 Like करो अगर फायदा लगे
 🔔 Subscribe करो रोज नई हेल्थ टिप्स के लिए
 
+We do not own the video materials, and all credits belong to the respective owners. In case of copyright issues, please contact us
+immediately for further credit or removal.
+
+DISCLAIMER
+
+Copyright Disclaimer Under Section 107 of the Copyright Act 1976, allowance is made for "fair use" for purposes such as criticism,
+comment, news reporting, teaching, scholarship, and research. Fair use is a use permitted 
+by copyright statute that might otherwise be infringing. Non-profit, educational, or personal
+use tips the balance in favor of fair use.
+
 #Ayurveda #HealthTips #Nuskhe #NaturalRemedies #HindiHealth #DesiNuskhe #Wellness"""
 
         video_path = "assets/final/final_short.mp4"
